@@ -4,8 +4,8 @@ class script(object):
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ PC ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
 
-ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/parshucr">Pᴀʀsʜᴜʀᴀᴍ</a> 😎
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/parshucr">Pᴀʀsʜᴜʀᴀᴍ</a>😎 </b>"""
+ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/netflix_india_007">NETFLIX_INDIA_007</a> 😎
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/netflix_india_007">NETFLIX_INDIA_007</a>😎 </b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  ᴍʏ ɴᴀᴍᴇ : {}😎
- ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/parshucr'>Pᴀʀsʜᴜʀᴀᴍ</a>
+ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/netflix_india_007'>NETFLIX_INDIA_007</a>
  ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
  ʜᴏsᴛᴇᴅ ᴏɴ  : <a href='https://www.heroku.com/'>Hᴇʀᴏᴋᴜ</a>
@@ -23,7 +23,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>Sᴏʀʀʏ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ Oғ Tʜɪs Bᴏᴛ ɪs Pʀɪᴠᴀᴛᴇ 
 Aᴅᴅ Tʜɪs Bᴏᴛ ɪɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Usᴇ Lɪᴋᴇ Yᴏᴜʀs😊
 </b>
-<b>Cᴏɴᴛᴀᴄᴛ ᴄʀᴇᴀᴛᴏʀ : @parshucr</b>
+<b>Cᴏɴᴛᴀᴄᴛ ᴄʀᴇᴀᴛᴏʀ : @https://t.me/netflix_india_007</b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
