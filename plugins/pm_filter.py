@@ -106,7 +106,7 @@ async def pm_text(bot, message):
             [
                 [
                     InlineKeyboardButton(
-                        "ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ 😊", url=f"https://t.me/pcmoviedemand"
+                        "ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ 😊", url=f"https://t.me/netflixrequstgroup1"
                     )
                 ]
             ]
@@ -1645,7 +1645,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "shortlink_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("🤵ᴄᴏɴᴛᴀᴄᴛ", url="telegram.me/parshucr")
+                    InlineKeyboardButton("🤵ᴄᴏɴᴛᴀᴄᴛ", url="telegram.me/netflix_india_007")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
